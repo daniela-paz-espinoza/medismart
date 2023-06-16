@@ -1,0 +1,501 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+    background-color: #040C18;
+
+}
+
+.contenedor-inicio {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+    padding: 0 0 80px 0;
+    background-color: #040C18;
+    margin-left: 60px;
+    padding-top: 100px;
+}
+
+.h1-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+
+}
+
+.p-1 {
+    width: 554px;
+    height: 227px;
+    left: 138px;
+    top: 474px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 27px;
+    color: #81AFDD;
+}
+
+input {
+    width: 456px;
+    height: 73px;
+    background: #052D56;
+    font-size: 20px;
+    color: #3D6184;
+}
+
+.btn-1 {
+    width: 174px;
+    height: 73px;
+    background: #FF4820;
+    border-radius: 5px 0px 0px 5px;
+    color: white;
+    font-size: 20px;
+}
+
+.cabeza {
+    width: 667.41px;
+    height: 701.59px;
+    margin-right: 150px;
+}
+
+.website {
+    display: flex;
+    justify-content: space-between;
+}
+
+.website img {
+    width: 48%;
+}
+
+.website .contenedor-textos-main {
+    width: 40%;
+
+
+}
+
+.info {
+    background-color: #042C54;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: 600px;
+    color: white;
+    padding: 50px;
+    border-radius: 10px;
+
+}
+
+.contenedor {
+    padding-bottom: 50px;
+}
+
+.h2-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.p-2 {
+    width: 731px;
+    height: 92px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #81AFDD;
+}
+
+
+.h1-2 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-bottom: 50px;
+}
+
+.p-3 {
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 30px;
+    color: #FF8A71;
+    padding-top: 25px;
+}
+
+.h3-1 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 24px;
+    color: white;
+
+}
+
+.p-4 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #81AFDD;
+    padding-top: 30px;
+
+
+}
+
+
+.contenedor {
+    display: flex;
+    justify-content: space-between;
+
+
+}
+
+.contenedor-dos {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+
+.content-card {
+    display: flex;
+}
+
+.futuro {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+    padding-top: 50px;
+
+}
+
+.h1-3 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 34px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    padding-right: 60px;
+
+}
+
+.p-5 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FF8A71;
+}
+
+.contenedor-futuro {
+    display: flex;
+    flex-direction: column;
+    padding-top: 30px;
+
+
+}
+
+.container-card {
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor-mujer {
+    padding-top: 60px;
+    margin-left: 60px;
+    padding-bottom: 100px;
+}
+
+.websiteDos {
+    display: flex;
+    justify-content: space-between;
+}
+
+.websiteDos img {
+    width: 48%;
+}
+
+.website .contenedor-mujer-main {
+    width: 40%;
+
+}
+
+.p-6 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    color: #71E5FF;
+    margin-left: 80px;
+
+}
+
+.h1-4 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 45px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 80px;
+    padding: 20px;
+}
+
+.p-7 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 30px;
+    color: #81AFDD;
+    margin-left: 80px;
+    margin-right: 30px;
+    padding: 20px;
+}
+
+.request {
+    width: 1170px;
+    height: 172.65px;
+    margin-left: auto;
+    margin-right: auto;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    border: 1px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10.7236px;
+    margin-bottom: 50px;
+
+}
+
+.request-container {
+    padding: 20px 20px 20px 20px;
+
+}
+
+.but-get {
+    width: 189.14px;
+    height: 59.4px;
+    left: 1078.74px;
+    margin-left: 120px;
+    top: 3235.41px;
+    background: #000000;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+}
+
+.h1-5 {
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 80px;
+}
+
+.tarjetas {
+    color: white;
+}
+
+.tarjetas-contenedor {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 50px 50px 50px 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+a {
+    color: white;
+}
+
+.tarj1 {
+    background-color: #042C54;
+    width: 418.2px;
+    height: 696.16px;
+
+}
+
+.tarj2 {
+    background-color: #042C54;
+    width: 327.34px;
+    height: 323.84px;
+    margin-left: -330px;
+
+
+}
+
+.tarj3 {
+    background-color: #042C54;
+    width: 327.34px;
+    height: 323.84px;
+    margin-left: -530px;
+
+}
+
+.tarj4 {
+    background-color: #042C54;
+    width: 327.34px;
+    height: 323.84px;
+    margin-left: 500px;
+    margin-top: -300px;
+
+}
+
+.tarj5 {
+    background-color: #042C54;
+    width: 327.34px;
+    height: 323.84px;
+    margin-left: 150px;
+    margin-top: -300px;
+}
+
+.info-last {
+    background-color: #031B34;
+    color: white;
+}
+
+.h1-6 {
+    text-align: center;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;
+    letter-spacing: -0.04em;
+    background: linear-gradient(89.97deg, #AE67FA 1.84%, #F49867 102.67%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    margin-left: 80px;
+}
+
+.btn2 {
+    width: 218px;
+    height: 65px;
+    color: white;
+    background-color: #031B34;
+    border-color: white;
+    font-size: 18px;
+    margin-left: 1050px;
+    margin-top: 30px;
+
+}
+
+.last-contenedor {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+
+footer {
+    background-color: #031B34;
+    color: white;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+header {
+    background-color: #040C18;
+    text-align: center;
+    padding: 30px;
+    font-size: 25px;
+}
+
+.btn3 {
+    width: 152px;
+    height: 58px;
+    color: white;
+    border-radius: 5px;
+    background-color: #FF4820;
+    font-size: 18px;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+
+}
+
+nav a:hover {
+    color: red;
+}
+
+@media(max-width: 767px) {
+    header {
+        background-color: blue;
+        width: 100%;
+    }
+
+    nav {
+        font-size: 50px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+    header {
+        width: 100%;
+    }
+
+}
